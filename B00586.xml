@@ -1,0 +1,273 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A vvonderfull vvonder, being a most strange and true relation of the resolute life, and miserable death of Thomas Miles, who did forsweare himselfe, and wished that God might shew some heavie example upon him, and so it came to passe for as hee sate at his meate hee choked himselfe, and died in short space after, which hapned the 8. of August last, 1635. and being ript up by the chirurgions of S. Bartholomewes Hospitall, was found to have a gub of meate sticking fast in his throate, which was the cause of his death. Written to warne all rash swearers to forsake their evill wayes, which God grant we may. To the tune of, Aime not too high, &amp;c.</title>
+            <author>L. P. (Laurence Price), fl. 1625-1680?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1635</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B00586</idno>
+            <idno type="STC">STC 20325</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.7[482]</idno>
+            <idno type="EEBO-CITATION">99884558</idno>
+            <idno type="PROQUEST">ocm99884558</idno>
+            <idno type="VID">183172</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B00586)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 183172)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A5:1[256])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A vvonderfull vvonder, being a most strange and true relation of the resolute life, and miserable death of Thomas Miles, who did forsweare himselfe, and wished that God might shew some heavie example upon him, and so it came to passe for as hee sate at his meate hee choked himselfe, and died in short space after, which hapned the 8. of August last, 1635. and being ript up by the chirurgions of S. Bartholomewes Hospitall, was found to have a gub of meate sticking fast in his throate, which was the cause of his death. Written to warne all rash swearers to forsake their evill wayes, which God grant we may. To the tune of, Aime not too high, &amp;c.</title>
+                  <author>L. P. (Laurence Price), fl. 1625-1680?</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>For Iohn Wright junior, dwelling at the upper end of the Old Baily.,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>[1635]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: L.P. [i.e. Laurence Price].</note>
+                  <note>Publication date suggested by STC.</note>
+                  <note>Verse: "Looke downe O Lord upon this sinfull land ..."</note>
+                  <note>In two parts, separated for mounting; woodcuts at head of each part.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Miles, Thomas, d. 1635 --  Early works to 1800.</term>
+               <term>Ballads, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb n="482" facs="tcp:183172:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 18 -->
+            <head>A vvonderfull vvonder,</head>
+            <argument>
+               <p>Being a moſt ſtrange and true relation of the reſolute life, and mi<g ref="char:EOLhyphen"/>ſerable death of <hi>Thomas Miles,</hi> who did forſweare himſelfe, and wiſhed that God might ſhew ſome heavie example upon him, and ſo it came to paſſe for as hee ſate at his Meate hee choked himſelfe, and died in ſhort ſpace after, which hapned the 8. of Auguſt laſt, 1635. and being ript up by the Chirurgions of S. <hi>Bartholomewes</hi> Hoſpitall, was found to have a gub of meate ſticking faſt in his throate, which was the cauſe of his death. Written to warne all raſh Swearers to forſake their evill wayes, which God grant we may.</p>
+            </argument>
+            <opener>To the tune of, <hi>Aime not too high, &amp;c.</hi>
+            </opener>
+            <div n="1" type="part">
+               <p>
+                  <figure/>
+               </p>
+               <p>
+                  <figure/>
+               </p>
+               <lg>
+                  <l>LOoke downe O Lord upon this ſinfull Land,</l>
+                  <l>Guyde, and defend us with thy mighty hand,</l>
+                  <l>Againſt the fiery Darts of Satans power,</l>
+                  <l>Which ſeekes our Soules and Bodies to devoure.</l>
+               </lg>
+               <lg>
+                  <l>This World is full of envy and debate,</l>
+                  <l>Neighbour to neighbour beares a deadly hate:</l>
+                  <l>Brother 'gainſt Siſter, friend againſt each friend,</l>
+                  <l>Which ſhewes the World is very neare an end.</l>
+               </lg>
+               <lg>
+                  <l>Vile blaſphemie is uſ'd againſt the Lord,</l>
+                  <l>By old and young at every trifling word:</l>
+                  <l>Some in their angry moode will Curſe &amp; Sweare,</l>
+                  <l>As if they would their God in pieces teare.</l>
+               </lg>
+               <lg>
+                  <l>But let them know that doe the Lord provoke</l>
+                  <l>By curſed oathes, on them to ſtrike the ſtroke:</l>
+                  <l>Know that all though he ſuffers them a ſpace,</l>
+                  <l>He will at laſt confound their wicked race.</l>
+               </lg>
+               <lg>
+                  <l>As for example<g ref="char:punc">▪</g> here I meane to tell</l>
+                  <l>A ſtrange relation which of late befell,</l>
+                  <l>Of one a forſworne wretch as is well knowne,</l>
+                  <l>On whom the Lord a wonder great hath ſhowne.</l>
+               </lg>
+               <lg>
+                  <l>This wretched man of whom theſe lines are pend,</l>
+                  <l>Deni'd a truth, a bad cauſe to defend:</l>
+                  <l>And raſhly wiſh'd in place whereas he ſtood,</l>
+                  <l>That he might never eate meate to doe him good.</l>
+               </lg>
+               <lg>
+                  <l>Now marke Gods Iudgements how they ſtrangly fell,</l>
+                  <l>A ſhort time after, griefe it is to tell:</l>
+                  <l>Hée with ſome others more to Dinner went,</l>
+                  <l>To give their hungry ſtomackes ſome content.</l>
+               </lg>
+               <lg>
+                  <l>But as they ſate at Table with their meate,</l>
+                  <l>Having made bargaine for't they fell to eate:</l>
+                  <l>This forſworne wretch <hi>Tom Miles</hi> call'd by name,</l>
+                  <l>Fed very greedily upon the ſame.</l>
+               </lg>
+               <lg>
+                  <l>And thruſting in a bit that would not paſſe</l>
+                  <l>Quite downe his throate, his luckleſſe hap it was</l>
+                  <l>To choke himſelfe, the very truth was ſo,</l>
+                  <l>While all the reſt behel'd him with great woe.</l>
+               </lg>
+               <lg>
+                  <l>Vnto a Surgent then he ranne with ſpéede,</l>
+                  <l>Deſiring him to helpe him in his néede:</l>
+                  <l>But all in vaine, no helpe for him could be.</l>
+                  <l>His breath was ſtopt, and he dy'd preſently.</l>
+               </lg>
+            </div>
+            <div n="2" type="part">
+               <pb n="483" facs="tcp:183172:1" rendition="simple:additions"/>
+               <!-- PDF PAGE 18 -->
+               <head>The ſecond part,</head>
+               <opener>To the ſame tune.</opener>
+               <p>
+                  <figure/>
+               </p>
+               <lg>
+                  <l>ANd being dead the Surgeons tooke in hand,</l>
+                  <l>To rip him up, that they might underſtand</l>
+                  <l>The truth and reaſon how he loſt his breath,</l>
+                  <l>And how he came by his untimely death.</l>
+               </lg>
+               <lg>
+                  <l>Which having done they found with woe at laſt,</l>
+                  <l>The gub of meate ſticke in his throate ſo faſt,</l>
+                  <l>Which was the cauſe of this his lives decay,</l>
+                  <l>Becauſe it could not thence be put away.</l>
+               </lg>
+               <lg>
+                  <l>Within the Hoſpitall his corpes doth lye,</l>
+                  <l>Men of good credit can it teſtifie,</l>
+                  <l>His body buried was without controule,</l>
+                  <l>But God grant mercy to his ſoule.</l>
+               </lg>
+               <lg>
+                  <l>Let this example warne us to amend,</l>
+                  <l>That we by oathes may not our God offend:</l>
+                  <l>O let each Man and Woman now refraine</l>
+                  <l>From taking of Gods holy name in vaine.</l>
+               </lg>
+               <lg>
+                  <l>He that delights in Oathes and Curſes vild,</l>
+                  <l>And hath therewith his ſpotted Soule defild:</l>
+                  <l>May now bewaile the time that he was borne,</l>
+                  <l>Sinne is the cauſe that makes a Land to mourne.</l>
+               </lg>
+               <lg>
+                  <l>Hie time it is for us to watch and pray</l>
+                  <l>Vpon our bended knées both night and day,</l>
+                  <l>Vnto our God, that he will mercie take</l>
+                  <l>On us poore ſoules for Ieſus Chriſt his ſake.</l>
+               </lg>
+               <lg>
+                  <l>For ſurely this we well may underſtand</l>
+                  <l>The Lord is angry with this ſinfull Land:</l>
+                  <l>His judgements hath ſo many wayes bin ſhowne</l>
+                  <l>Throughout our coaſts as is to many known.</l>
+               </lg>
+               <lg>
+                  <l>What viſions in the Ayre, and fearefull ſights</l>
+                  <l>Have bin of late which wonder may affrights,</l>
+                  <l>Thunder, and Lightnings, to procure our feares,</l>
+                  <l>Enough to make each flintie heart ſhed teares.</l>
+               </lg>
+               <lg>
+                  <l>All thoſe are ſignes to warne us to repent,</l>
+                  <l>Which God as meſſengers hath to us ſent</l>
+                  <l>For to reclaime us from our former ſinne,</l>
+                  <l>Which we ſo long have ſlept and wallowed in.</l>
+               </lg>
+               <lg>
+                  <l>But to conclude, ſwéet Ieſus give us grace,</l>
+                  <l>That we on earth may runne a godly race:</l>
+                  <l>That when by death our life is taken away,</l>
+                  <l>We may through thée eternall life enjoy.</l>
+               </lg>
+            </div>
+            <closer>
+               <signed>L. P.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed at London for <hi>Iohn Wright junior,</hi> dwel<g ref="char:EOLhyphen"/>ling at the upper end of the Old Baily.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
